@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="asset/Bandra-vorlisealink.png" alt="Bandra-Worli Sea Link" width="100%" style="border-radius: 12px; border: 1px solid #444;" />
-</p>
 
 <h1 align="center">🚀 Welcome to My GitHub Dashboard</h1>
 
