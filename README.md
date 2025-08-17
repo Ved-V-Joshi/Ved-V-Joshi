@@ -39,14 +39,6 @@ I'm passionate about building clean, responsive, and dynamic web and Android app
 
 ---
 
-### ✍️ Animated Quote of the Day
-
-<p align="center">
-  <img src="asset/quotes.gif" alt="Animated Quote" width="450" />
-</p>
-
----
-
 ### 🔥 GitHub Contribution Streak
 
 <div align="center">
